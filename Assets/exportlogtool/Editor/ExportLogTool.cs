@@ -7,7 +7,7 @@ namespace ConsoleTiny
 {
     public class ExportLogTool
     {
-        [MenuItem("Console Tiny/Export Log")]
+        [MenuItem("Window/Export Log")]
         public static void ExportLog()
         {
             string filePath = EditorUtility.SaveFilePanel("Export Log", "",
