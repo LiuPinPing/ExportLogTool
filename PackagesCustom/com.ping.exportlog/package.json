@@ -1,0 +1,12 @@
+{
+  "name": "com.ping.exportlog",
+  "displayName": "Export Log",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "export log.",
+  "keywords": [
+    "exportlog"
+  ],
+  "category": "Editor",
+  "dependencies": {}
+}
